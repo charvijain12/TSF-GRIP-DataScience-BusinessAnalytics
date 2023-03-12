@@ -17,7 +17,7 @@
   <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%204%20-%20Exploratory%20Data%20Analysis%20-%20Terrorism">code</a></p>
   
   <li> Exploratory Data Analysis - Sports </li>
-  <p><a href="">code</a></p>
+  <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%205%20-%20Exploratory%20Data%20Analysis%20-%20Sports">code</a></p>
   
   <li> Prediction using Decision Tree Algorithm </li>
   <p><a href="">code</a></p>
