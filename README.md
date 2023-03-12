@@ -14,7 +14,7 @@
   <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%203%20-%20Exploratory%20Data%20Analysis%20-%20Retail">code</a></p>
   
   <li> Exploratory Data Analysis - Terrorism </li>
-  <p><a href="">code</a></p>
+  <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%204%20-%20Exploratory%20Data%20Analysis%20-%20Terrorism">code</a></p>
   
   <li> Exploratory Data Analysis - Sports </li>
   <p><a href="">code</a></p>
