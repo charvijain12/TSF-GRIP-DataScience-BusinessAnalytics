@@ -23,9 +23,9 @@
   <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%206%20-%20Prediction%20using%20Decision%20Tree">Code</a></p>
   
   <li> Stock Market Prediction using Numerical and Textual Analysis </li>
-  <p><a href="">Code</a></p>
+  <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%207%20-%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis">Code</a></p>
   
   <li> Timeline Analysis : Covid-19 </li>
-  <p><a href="">Code</a></p>
+  <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%208%20-%20Covid19%20Analysis">Code</a></p>
   
   </ol>
