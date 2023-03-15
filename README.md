@@ -20,7 +20,7 @@
   <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%205%20-%20Exploratory%20Data%20Analysis%20-%20Sports">Code</a></p>
   
   <li> Prediction using Decision Tree Algorithm </li>
-  <p><a href="">Code</a></p>
+  <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%206%20-%20Prediction%20using%20Decision%20Tree">Code</a></p>
   
   <li> Stock Market Prediction using Numerical and Textual Analysis </li>
   <p><a href="">Code</a></p>
