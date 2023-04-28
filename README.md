@@ -4,10 +4,10 @@
 <h2> Data Science and Business Analytics Internship Projects </h2>
 
 <ol>
-  <li> Prediction using Supervised Ml </li>
+  <li> Prediction using Supervised ML </li>
   <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%201%20-%20Prediction%20Using%20Supervised%20ML">Code</a></p>
   
-  <li> Prediction using Unsupervised Ml </li>
+  <li> Prediction using Unsupervised ML </li>
   <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%202%20-%20Prediction%20Using%20Unsupervised%20ML">Code</a></p>
   
   <li> Exploratory Data Analysis - Retail </li>
