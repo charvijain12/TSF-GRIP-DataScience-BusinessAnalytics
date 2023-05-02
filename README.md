@@ -1,10 +1,10 @@
 # Sparks-Foundation-Internship
 
 
-## Computer Vision and IoT Internship Projects 
+## Data Science Internship Projects 
 
 
-This repository contains the code for the projects completed during the Data Science Internship at InfoPillar Solutions. The projects are:
+This repository contains the code for the projects completed during the Data Science Internship at The Sparks Foundation. The projects are:
 <ol>
   <li> Prediction using Supervised ML </li>
   <p><a href="https://github.com/charvijain12/TSF-GRIP-DataScience-BusinessAnalytics/tree/main/Task%201%20-%20Prediction%20Using%20Supervised%20ML">code</a></p>
